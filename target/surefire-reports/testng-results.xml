@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3730" started-at="2021-05-06T15:53:08Z" finished-at="2021-05-06T15:53:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3730" started-at="2021-05-06T15:53:08Z" finished-at="2021-05-06T15:53:12Z">
+      <class name="rest.testCases1">
+        <test-method status="PASS" signature="GetAllVideos()[pri:0, instance:rest.testCases1@44a664f2]" name="GetAllVideos" duration-ms="2455" started-at="2021-05-06T21:23:08Z" finished-at="2021-05-06T21:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllVideos -->
+        <test-method status="PASS" signature="PostVideoGames()[pri:0, instance:rest.testCases1@44a664f2]" name="PostVideoGames" duration-ms="1248" started-at="2021-05-06T21:23:10Z" finished-at="2021-05-06T21:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostVideoGames -->
+      </class> <!-- rest.testCases1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
